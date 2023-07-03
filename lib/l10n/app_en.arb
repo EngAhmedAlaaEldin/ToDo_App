@@ -1,0 +1,10 @@
+{
+    "apptitle":"To Do App",
+    "taskEdit":"Task Edit",
+    "taskTitle":"task title",
+    "taskDescription":"task description",
+    "edit":"Edit",
+    "addNewTask":"Add new Task",
+    "selectTime":"Select Time",
+    "addTask":"Add Task"
+}
